@@ -34,7 +34,7 @@ public class Calculadora {
 			System.out.println("El resultado es " + resultado + "\n");
 			break;
 		case SALIR:
-			System.out.println("Gracias por usar Calculadora");
+			System.out.println("Gracias por usar Calculadora!");
 			break;
 		}
 			
